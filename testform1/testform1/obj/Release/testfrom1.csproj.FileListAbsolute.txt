@@ -1,0 +1,15 @@
+C:\Users\gangs\source\repos\testform1\testform1\bin\Release\MiniCalculator.exe.config
+C:\Users\gangs\source\repos\testform1\testform1\bin\Release\MiniCalculator.exe.manifest
+C:\Users\gangs\source\repos\testform1\testform1\bin\Release\MiniCalculator.application
+C:\Users\gangs\source\repos\testform1\testform1\bin\Release\MiniCalculator.exe
+C:\Users\gangs\source\repos\testform1\testform1\bin\Release\MiniCalculator.pdb
+C:\Users\gangs\source\repos\testform1\testform1\obj\Release\testfrom1.csproj.AssemblyReference.cache
+C:\Users\gangs\source\repos\testform1\testform1\obj\Release\testfrom1.csproj.SuggestedBindingRedirects.cache
+C:\Users\gangs\source\repos\testform1\testform1\obj\Release\testform1.Calculator.resources
+C:\Users\gangs\source\repos\testform1\testform1\obj\Release\MiniCalculator.Properties.Resources.resources
+C:\Users\gangs\source\repos\testform1\testform1\obj\Release\testfrom1.csproj.GenerateResource.cache
+C:\Users\gangs\source\repos\testform1\testform1\obj\Release\testfrom1.csproj.CoreCompileInputs.cache
+C:\Users\gangs\source\repos\testform1\testform1\obj\Release\MiniCalculator.exe.manifest
+C:\Users\gangs\source\repos\testform1\testform1\obj\Release\MiniCalculator.application
+C:\Users\gangs\source\repos\testform1\testform1\obj\Release\MiniCalculator.exe
+C:\Users\gangs\source\repos\testform1\testform1\obj\Release\MiniCalculator.pdb

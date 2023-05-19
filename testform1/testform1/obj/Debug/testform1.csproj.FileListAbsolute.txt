@@ -1,0 +1,11 @@
+C:\Users\gangs\source\repos\testform1\testform1\bin\Debug\testform1.exe.config
+C:\Users\gangs\source\repos\testform1\testform1\bin\Debug\testform1.exe
+C:\Users\gangs\source\repos\testform1\testform1\bin\Debug\testform1.pdb
+C:\Users\gangs\source\repos\testform1\testform1\obj\Debug\testform1.csproj.AssemblyReference.cache
+C:\Users\gangs\source\repos\testform1\testform1\obj\Debug\testform1.csproj.SuggestedBindingRedirects.cache
+C:\Users\gangs\source\repos\testform1\testform1\obj\Debug\testform1.Properties.Resources.resources
+C:\Users\gangs\source\repos\testform1\testform1\obj\Debug\testform1.csproj.GenerateResource.cache
+C:\Users\gangs\source\repos\testform1\testform1\obj\Debug\testform1.csproj.CoreCompileInputs.cache
+C:\Users\gangs\source\repos\testform1\testform1\obj\Debug\testform1.exe
+C:\Users\gangs\source\repos\testform1\testform1\obj\Debug\testform1.pdb
+C:\Users\gangs\source\repos\testform1\testform1\obj\Debug\testform1.Calculator.resources
